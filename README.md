@@ -1,8 +1,8 @@
 - 👋 Hi, We are Rio Crypto Hub!
 - 👀 We are interested in expanding web3 ecossystem through Rio and Brazil.
-- 🌱 I’m currently learning how to bring more people to a descentralized world.
-- 🌐 I’m looking to collaborate on projects that are also looking to expand their boundaries
-- 📫 How to reach me https://linktr.ee/riocryptohub
+- 🌱 We're currently learning how to bring more people to a descentralized world.
+- 🌐 We're looking to collaborate on projects that are also looking to expand their boundaries
+- 📫 How to reach us https://linktr.ee/riocryptohub
 
 <p align="center">
   <img src="https://github.com/riocryptohub/riocryptohub/blob/main/Capa.png" width="80%" title="hover text">
